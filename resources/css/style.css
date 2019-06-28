@@ -42,7 +42,6 @@ main :nth-child(6) {
 }
 
 main :nth-child(3) {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 21px;
   color: Gray;
   display: block;
